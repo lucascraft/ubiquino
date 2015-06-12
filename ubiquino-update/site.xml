@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Ubiquino : Firmata/Arduino Eclipse Tooling" url="https://github.com/lucascraft/ubiquino/ubiquino-update">
+      firmata/arduino eclipse tooling
+   </description>
+   <feature url="features/net.sf.smbt.ui.extensions_0.5.0.201506121401.jar" id="net.sf.smbt.ui.extensions" version="0.5.0.201506121401"/>
+</site>
